@@ -16,9 +16,10 @@ header a{
     transition: 0.3s;
     color:black;
     cursor: pointer;
-    font-family: 'TNew Century Schoolbook';
+    font-family:'Cormorant';
     font-size: larger;
 }
+
 header a:hover{
     color:gray;
 }
@@ -29,6 +30,7 @@ header p{
     display: inline-block; 
     overflow: hidden;
     font-size:1.2cm;
+    font-family:'Cormorant';
 }
 header p:hover{
     color:gray;
