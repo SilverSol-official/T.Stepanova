@@ -73,7 +73,11 @@ main{
     margin-top: 5%;
 }
 
-
+main div{
+    width: 50%;
+    
+    display:inline-flex;
+}
 
 
 footer{
